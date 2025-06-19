@@ -14,11 +14,11 @@ int main()
 
     if(mark1 < 40 || mark2 < 40 || mark3 < 40)
     {
-        printf("Studen is failed due to less passing mark!!! \n");
+        printf("Student is failed due to less passing mark!!! \n");
     }
     else if((mark1 + mark2 + mark3) / 3 < 50)
     {
-        printf("Studen is failed due to less passing percentage!!! \n");
+        printf("Student is failed due to less passing percentage!!! \n");
     }
     else
     {
