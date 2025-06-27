@@ -24,4 +24,6 @@ int main()
     {
         printf("Student is passed!!! \n");
     }
+
+    return 0;
 }

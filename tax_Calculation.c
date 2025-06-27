@@ -27,4 +27,6 @@ int main()
     }
 
     printf("The total amount of tax to pay is: %.2f", tax);
+
+    return 0;
 }
